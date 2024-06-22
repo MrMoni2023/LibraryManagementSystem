@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DatabaseLayer.DateType" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DateType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.OnlineLibraryMgtSystemDBEntities">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAAEAABBEAAAACQAgIERAAAAAAhAAAEAAAAAA=</HashCode>
+      <FileName>LibraryMgtSystem.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.BookFineTable">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAIACAAAACAAAAAAAAAIAAiACAAAAAAAACAAAAAIAAA=</HashCode>
+      <FileName>BookFineTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.BookIssuesTable">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAIACAAEAAAgAAAAAIAIAAiAAAAAAAAAACIAIAAAAAA=</HashCode>
+      <FileName>BookIssuesTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.BookReturnTable">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAIACAAAAAAgAAAAAAAAAQiAAAAAAEAAACAAAAAAAAA=</HashCode>
+      <FileName>BookReturnTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.BooksTable">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAACAAAIQwggAAAgAAKQAgIAQAAQAAAAAAAQCIAAAA=</HashCode>
+      <FileName>BooksTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.BookTypeTable">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAEAAAAAAAwAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>BookTypeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.DepartmentsTable">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAgBEAAAAAAAwAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DepartmentsTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.DesignationTable">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAABgAAAIAAAwAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignationTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.EmployeeTable">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAACAggIgAEAAgYAgAAQABAAACAAAAAAAAAAA=</HashCode>
+      <FileName>EmployeeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.PurchaseDetailTable">
+    <Position X="12.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAGAAAAAAAAAQAAAAAAACAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PurchaseDetailTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.PurchaseTable">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAQgAIACAAgAABAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>PurchaseTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.PurTemDetailsTable">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAACAAAAAAAAAAgAAAAAACAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PurTemDetailsTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.SupplierTable">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAACAgAAAAAAAAAAgAAAAAAAAAAKAAgAAAAAA=</HashCode>
+      <FileName>SupplierTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.sysdiagram">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIAAAAAAAAAAAAAAAQAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sysdiagram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.UserTable">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAIAAAAEAABBECEAAAQAgAAQAAAAACBQACAAAAAAA=</HashCode>
+      <FileName>UserTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatabaseLayer.UserTypeTable">
+    <Position X="3.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAACAAAgAAAAAAAAAA=</HashCode>
+      <FileName>UserTypeTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="15" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
